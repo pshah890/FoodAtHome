@@ -10,8 +10,31 @@ var padding = { top: 20, right: 40, bottom: 0, left: 0 },
 
 //Restaurant Names   
 var data = [
-    { "label": "Pasta" },
-    
+    { "label": " " },
+    { "label": " " },
+    { "label": " " },
+    { "label": " " },
+    { "label": " " },
+    { "label": " " },
+    { "label": " " },
+    { "label": " " },
+    { "label": " " },
+    { "label": " " },
+    { "label": " " },
+    { "label": " " },
+    { "label": " " },
+    { "label": " " },
+    { "label": " " },
+    { "label": " " },
+    { "label": " " },
+    { "label": " " },
+    { "label": " " },
+    { "label": " " },
+    { "label": " " },
+    { "label": " " },
+    { "label": " " },
+    { "label": " " },
+    { "label": " " },
 
 ];
 var svg = d3.select('#chart')
